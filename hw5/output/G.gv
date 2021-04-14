@@ -1,0 +1,183 @@
+graph {
+	Albania -- Greece
+	Albania -- Kosovo
+	Albania -- "North Macedonia"
+	Albania -- Montenegro
+	Andorra -- France
+	Andorra -- Spain
+	Austria -- "Czech Republic"
+	Austria -- Germany
+	Austria -- Hungary
+	Austria -- Italy
+	Austria -- Liechtenstein
+	Austria -- Slovakia
+	Austria -- Slovenia
+	Austria -- Switzerland
+	Belarus -- Latvia
+	Belarus -- Lithuania
+	Belarus -- Poland
+	Belarus -- Russia
+	Belarus -- Ukraine
+	Belgium -- France
+	Belgium -- Germany
+	Belgium -- Luxembourg
+	Belgium -- Netherlands
+	"Bosnia and Herzegovina" -- Croatia
+	"Bosnia and Herzegovina" -- Montenegro
+	"Bosnia and Herzegovina" -- Serbia
+	Bulgaria -- Greece
+	Bulgaria -- "North Macedonia"
+	Bulgaria -- Romania
+	Bulgaria -- Serbia
+	Bulgaria -- Turkey
+	"Bosnia and Herzegovina" -- Croatia
+	Croatia -- Hungary
+	Croatia -- Montenegro
+	Croatia -- Serbia
+	Croatia -- Slovenia
+	Cyprus -- "United Kingdom"
+	Austria -- "Czech Republic"
+	"Czech Republic" -- Germany
+	"Czech Republic" -- Poland
+	"Czech Republic" -- Slovakia
+	Denmark -- Germany
+	Estonia -- Latvia
+	Estonia -- Russia
+	Finland -- Norway
+	Finland -- Sweden
+	Finland -- Russia
+	Andorra -- France
+	Belgium -- France
+	France -- Germany
+	France -- Italy
+	France -- Luxembourg
+	France -- Monaco
+	France -- Netherlands
+	France -- Spain
+	France -- Switzerland
+	Austria -- Germany
+	Belgium -- Germany
+	"Czech Republic" -- Germany
+	Denmark -- Germany
+	France -- Germany
+	Germany -- Luxembourg
+	Germany -- Netherlands
+	Germany -- Poland
+	Germany -- Switzerland
+	Albania -- Greece
+	Bulgaria -- Greece
+	Greece -- Turkey
+	Greece -- "North Macedonia"
+	Austria -- Hungary
+	Croatia -- Hungary
+	Hungary -- Romania
+	Hungary -- Serbia
+	Hungary -- Slovakia
+	Hungary -- Slovenia
+	Hungary -- Ukraine
+	Ireland -- "United Kingdom"
+	Austria -- Italy
+	France -- Italy
+	Italy -- "San Marino"
+	Italy -- Slovenia
+	Italy -- Switzerland
+	Italy -- "Vatican City"
+	Albania -- Kosovo
+	Kosovo -- Montenegro
+	Kosovo -- "North Macedonia"
+	Kosovo -- Serbia
+	Belarus -- Latvia
+	Estonia -- Latvia
+	Latvia -- Lithuania
+	Latvia -- Russia
+	Austria -- Liechtenstein
+	Liechtenstein -- Switzerland
+	Belarus -- Lithuania
+	Latvia -- Lithuania
+	Lithuania -- Poland
+	Lithuania -- Russia
+	Belgium -- Luxembourg
+	France -- Luxembourg
+	Germany -- Luxembourg
+	Moldova -- Romania
+	Moldova -- Ukraine
+	France -- Monaco
+	Albania -- Montenegro
+	"Bosnia and Herzegovina" -- Montenegro
+	Croatia -- Montenegro
+	Kosovo -- Montenegro
+	Montenegro -- Serbia
+	Belgium -- Netherlands
+	Germany -- Netherlands
+	France -- Netherlands
+	Albania -- "North Macedonia"
+	Bulgaria -- "North Macedonia"
+	Greece -- "North Macedonia"
+	Kosovo -- "North Macedonia"
+	"North Macedonia" -- Serbia
+	Finland -- Norway
+	Norway -- Sweden
+	Norway -- Russia
+	Belarus -- Poland
+	"Czech Republic" -- Poland
+	Germany -- Poland
+	Lithuania -- Poland
+	Poland -- Russia
+	Poland -- Slovakia
+	Poland -- Ukraine
+	Portugal -- Spain
+	Bulgaria -- Romania
+	Hungary -- Romania
+	Moldova -- Romania
+	Romania -- Serbia
+	Romania -- Ukraine
+	Belarus -- Russia
+	Estonia -- Russia
+	Finland -- Russia
+	Latvia -- Russia
+	Lithuania -- Russia
+	Norway -- Russia
+	Poland -- Russia
+	Russia -- Ukraine
+	Italy -- "San Marino"
+	"Bosnia and Herzegovina" -- Serbia
+	Bulgaria -- Serbia
+	Croatia -- Serbia
+	Hungary -- Serbia
+	Kosovo -- Serbia
+	Montenegro -- Serbia
+	"North Macedonia" -- Serbia
+	Romania -- Serbia
+	Austria -- Slovakia
+	"Czech Republic" -- Slovakia
+	Hungary -- Slovakia
+	Poland -- Slovakia
+	Slovakia -- Ukraine
+	Austria -- Slovenia
+	Croatia -- Slovenia
+	Italy -- Slovenia
+	Hungary -- Slovenia
+	Andorra -- Spain
+	France -- Spain
+	Portugal -- Spain
+	Finland -- Sweden
+	Norway -- Sweden
+	Austria -- Switzerland
+	France -- Switzerland
+	Italy -- Switzerland
+	Liechtenstein -- Switzerland
+	Germany -- Switzerland
+	Bulgaria -- Turkey
+	Greece -- Turkey
+	Belarus -- Ukraine
+	Hungary -- Ukraine
+	Moldova -- Ukraine
+	Poland -- Ukraine
+	Romania -- Ukraine
+	Russia -- Ukraine
+	Slovakia -- Ukraine
+	Cyprus -- "United Kingdom"
+	Ireland -- "United Kingdom"
+	Spain -- "United Kingdom"
+	Italy -- "Vatican City"
+}
